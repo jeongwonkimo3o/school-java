@@ -1,4 +1,4 @@
-package Box_209;
+package box_209;
 /*
    어서와 java는 처음이지! page 209 ~ 210
    - 객체 생성과 사용 예제 (Box 클래스 작성)    

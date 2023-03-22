@@ -1,4 +1,4 @@
-package Box_209;
+package box_209;
 
 /*
    어서와 java는 처음이지! page 209 ~ 210
